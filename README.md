@@ -1,11 +1,6 @@
 # Practical-Machine-Learning
 Practical Machine Learning
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE, cache = TRUE)
-```
-
 ## Summary
 
 A lot people nowadays use technical devices to track pattern of physical activity, however, rarely people track the quality of moving. This paper describes an approach using a machine learning method to predict the quality of certain exercises involving a weightlifting barbell by using supervised machine learning methods. Data has been made available from moving accelorators with an outcome classification of correct and incorrect lifts. 
